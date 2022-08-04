@@ -1,0 +1,35 @@
+
+.container{
+	border: 1px solid #EFEFEF;
+	border-radius: 10rpx;
+}
+.list-item {
+	position: relative;
+	padding: 10rpx;
+}
+.imgs,
+.list-item {
+	width: 120rpx;
+	height: 120rpx;
+}
+.image-content {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.closePic {
+	width: 34rpx;
+	height: 34rpx;
+	position: absolute;
+	z-index: 99;
+	top: 0;
+	right: 0;
+}
+.small {
+	font-size: 24rpx;
+	color: rgb(0, 0, 0, 0.5);
+	/* color: #EFEFEF; */
+	text-align: right;
+}
+

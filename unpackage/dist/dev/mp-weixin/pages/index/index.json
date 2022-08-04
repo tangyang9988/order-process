@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "告警列表",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#2F85FC",
+  "backgroundColor": "#FFFFFF",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}
